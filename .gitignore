@@ -1,0 +1,18 @@
+# --- Dependencias (Lo más pesado) ---
+/node_modules
+/npm-debug.log
+yarn-error.log
+
+# --- Angular (Archivos generados) ---
+/.angular/
+/dist/
+/out-tsc/
+
+# --- IDEs y Sistema (Archivos de tu ordenador) ---
+.DS_Store
+Thumbs.db
+/.vscode/
+/.idea/
+
+# --- Variables de entorno (Seguridad) ---
+.env
