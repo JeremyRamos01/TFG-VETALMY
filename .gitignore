@@ -16,3 +16,6 @@ Thumbs.db
 
 # --- Variables de entorno (Seguridad) ---
 .env
+
+# --- Postgres ---
+postgres_data/
