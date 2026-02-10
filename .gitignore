@@ -1,5 +1,5 @@
 # --- Dependencias (Lo más pesado) ---
-/node_modules
+node_modules/
 /npm-debug.log
 yarn-error.log
 
@@ -16,3 +16,6 @@ Thumbs.db
 
 # --- Variables de entorno (Seguridad) ---
 .env
+
+# --- Postgres ---
+postgres_data/
